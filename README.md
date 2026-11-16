@@ -1,20 +1,40 @@
-# Vexalon – Offizielle Releases
-Vexalon Enterprise Suite - Releases
+# Vexalon Enterprise Suite – Offizielle Releases
 
-Dieses Repository dient ausschließlich der Bereitstellung fertig gebauter Programmversionen (Binaries/ZIP-Pakete) von **Vexalon**. Der Quellcode wird in einem separaten, privaten Repository verwaltet.
+Fünf Werkzeuge für SAP-Basis, Netzwerk und Dokumentation in einem Paket:
+SAP Basis Cockpit, NetOps Command & Topology, Performance Analyzer,
+Multi-Brand Document Studio und OneNote Markdown Bridge.
 
-## 📥 Download
+Dieses Repository stellt ausschließlich die fertig gebauten Pakete bereit.
+Der Quellcode wird in einem separaten, privaten Repository verwaltet.
 
-Die jeweils aktuellste Version findest du immer hier:
-👉 **[Neueste Version herunterladen (Releases)](../../releases/latest)**
+## Download
 
-*(Klicke auf der Release-Seite unten unter „Assets“ auf die gewünschte `.zip`-Datei, um den Download zu starten).*
+**[Neueste Version herunterladen](../../releases/latest)**
 
-## 🚀 Installation & Start
+Auf der Release-Seite unter „Assets“ die `.zip`-Datei wählen.
+Dort steht auch, was in der jeweiligen Fassung neu ist.
 
-1. Lade die `.zip`-Datei aus dem aktuellen Release herunter.
-2. Entpacke das Archiv in einen beliebigen Ordner auf deinem System.
-3. Starte die Anwendung gemäß der im Paket enthaltenen Anleitung.
+## Voraussetzungen
 
-## 🔒 Hinweis
-Bitte lade Pakete nur über die offizielle [Releases-Sektion](../../releases) dieses Repositories herunter.
+- Windows 10 oder 11
+- Keine Installation und kein Python nötig – alles liegt im Paket
+- Eine gültige Lizenzdatei (siehe unten)
+
+## Installation und Start
+
+1. Die `.zip`-Datei herunterladen und in einen beliebigen Ordner entpacken
+   (lokale Platte, Netzlaufwerk oder USB-Stick).
+2. Die Lizenzdatei (`lizenz.lic`) in denselben Ordner legen.
+3. `Start.bat` aufrufen. Der Starter zeigt alle Tools mit ihrem Lizenzstand.
+
+Jedes Tool enthält eine eigene Anleitung im Reiter „Anleitung“.
+
+## Lizenz und Kontakt
+
+Die Tools laufen nur mit einer Lizenzdatei. Testlizenzen, Volllizenzen und
+Fragen: **info@vexalon.de**
+
+## Hinweis
+
+Bitte laden Sie Pakete nur über die offizielle
+[Releases-Seite](../../releases) dieses Repositories herunter.
